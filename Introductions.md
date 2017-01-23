@@ -1,6 +1,5 @@
 1) Name (nickname?)
 
-hello world
 Jiyun Chen (Chris).    
 
 2) major(s?)
